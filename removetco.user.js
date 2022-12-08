@@ -7,6 +7,7 @@
 // @grant none
 // @require https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js
 // @run-at document-end
+// @updateURL https://raw.githubusercontent.com/auyongcheemeng/remove_t.co/master/removetco.user.js
 // @downloadURL https://raw.githubusercontent.com/auyongcheemeng/remove_t.co/master/removetco.user.js
 // @version 0.6
 // ==/UserScript==
