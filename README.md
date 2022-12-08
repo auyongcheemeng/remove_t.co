@@ -1,6 +1,6 @@
 # t.co redirection/tracking removal (greasemonkey/userscript) 
 
-original script forked from [kkren/remove_t.co](https://github.com/kkren/remove_t.co)
+*original script forked from [kkren/remove_t.co](https://github.com/kkren/remove_t.co)*
 
 This greasemonkey/userscript enables removal of ``t.co`` external link tracking/redirection on twitter
 
