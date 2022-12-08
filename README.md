@@ -1,4 +1,10 @@
-# Remove t.co
-[![](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E7%9B%B4%E9%93%BE-%F0%9F%90%92-blue.svg)](https://raw.githubusercontent.com/kkren/remove_t.co/master/removetco.user.js "请确认已安装并启动脚本管理器")  [![](https://img.shields.io/badge/🌎-English-red.svg)](https://github.com/kkren/remove_t.co/blob/master/en-us.md)    
-<br> 去除Twitter对外链的t.co跳转  
-<br>在Firefox Nightly 59的Violentmonkry，Tampermonkey上测试通过  
+# t.co redirection/tracking removal (greasemonkey/userscript) 
+
+original script forked from [kkren/remove_t.co](https://github.com/kkren/remove_t.co)
+
+This greasemonkey/userscript enables removal of ``t.co`` external link tracking/redirection on twitter
+
+## Changelog/notes
+   1. 2022-12-08
+      Updated script for tweetdeck.twitter.com
+      Known issues: broken on regular twiter.com, as main site nolonger uses the ``data-expanded-url`` but instead links within the ``a`` tag
