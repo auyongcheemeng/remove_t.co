@@ -1,4 +1,4 @@
-# t.co redirection/tracking removal (greasemonkey/userscript) 
+# Twitter t.co redirection/tracking removal (greasemonkey/userscript) 
 
 *original script forked from [kkren/remove_t.co](https://github.com/kkren/remove_t.co)*
 
